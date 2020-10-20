@@ -18,6 +18,7 @@ FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:http://www.m
 ```
 
 # Notes
+
 Z Axis
 
 2mm pitch
